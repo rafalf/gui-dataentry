@@ -1,0 +1,7 @@
+url: https://webflow.com/design/thegoodbrandcollection-model
+url_login: https://webflow.com/dashboard/login
+user: USER_NAME
+password: PASSWORD
+process_multiple: false
+process_items: 10
+save: true
